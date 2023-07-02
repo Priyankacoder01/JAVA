@@ -1,0 +1,1 @@
+//5.Write a program in Java to define a class Rectangle having data member: length, breadth and class Calculate. Calculate class having data member area() and perimeter() to compute the  area and perimeter of the rectangle respectively. Also implement the application class DemoRect where an object of the Rectangle class is created with user entered length and breadth.
